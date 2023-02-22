@@ -1,0 +1,29 @@
+
+
+temp2.innerHTML = jodhpur.temp
+feels_like2.innerHTML = jodhpur.feels_like
+humidity2.innerHTML = jodhpur.humidity
+min_temp2.innerHTML = jodhpur.min_temp
+max_temp2.innerHTML = jodhpur.max_temp
+wind_speed2.innerHTML = jodhpur.wind_speed
+wind_degrees2.innerHTML = jodhpur.wind_degrees
+sunrise2.innerHTML =jodhpur.sunrise
+
+
+
+
+
+
+
+
+
+
+
+<span id="temp"></span>
+<span id="feels_like"></span>
+<span id="humidity"></span>
+<span id="max_temp"></span>
+<span id="min_temp"></span>
+<span id="sunrise"></span>
+<span id="wind_degrees"></span>
+<span id="wind_speed"> </span>
